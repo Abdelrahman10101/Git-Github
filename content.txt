@@ -1,0 +1,14 @@
+Pointers revision * + Introduction to Classes.*
+Stacks
+Queues*
+Array Lists*
+Linked Lists*
+Binary Search Trees*
+Hash Tables
+STL
+Graphs
+Priority Queues
+
+1 topic for week
+?
+
